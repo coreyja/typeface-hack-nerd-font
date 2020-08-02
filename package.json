@@ -1,14 +1,17 @@
 {
-	"name": "typeface-hack-nerd-font",
-	"version": "0.0.60",
-	"description": "Hack Nerdfont typeface",
-	"main": "index.css",
-	"keywords": [
-		"typeface",
-		"font",
-		"font family"
-	],
-	"author": "Corey Alexander <coreyja@gmail.com>",
-	"license": "MIT",
-	"repository": "https://github.com/coreyja/typeface-hack-nerd-font"
+  "name": "@coreyja/typeface-hack-nerd-font",
+  "version": "0.0.60",
+  "description": "Hack Nerdfont typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family"
+  ],
+  "author": "Corey Alexander <coreyja@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/coreyja/typeface-hack-nerd-font",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  }
 }
